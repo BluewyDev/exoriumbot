@@ -81,6 +81,12 @@ body {
     font-size: 36px !important
 }
 
+.ptext {
+    color: RGBA(87, 75, 195, 0.65) !important;
+    font-size: 16px !important;
+    font-family: 'Lato', sans-serif;
+}
+    
 .features {
     text-align: center !important;
     background: #AD91FF !important;
