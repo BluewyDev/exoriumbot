@@ -177,13 +177,6 @@ body {
     background-repeat: no-repeat !important;
 }
 
-.page_end2 {
-    background-image: url("../assets/wavy-dark-by-nouridio.svg") !important;
-    background-position: bottom !important;
-    background-size: 200% !important;
-    background-repeat: no-repeat !important;
-}
-
 .start {
     padding: 60px 50px !important
 }
@@ -242,6 +235,7 @@ color: rgba(255, 255, 255, 0.46) !important
 .footer .nouridio b {
     color: #fff !important;
     text-decoration: none !important;
+    background-image: url("../assets/wavy-dark-by-nouridio.svg") !important;
 }
 
 .footer .bot-footer {
