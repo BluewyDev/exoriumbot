@@ -106,6 +106,16 @@ body {
     background-size: 200% !important;
     background-repeat: no-repeat !important;
 }
+
+.features2 {
+    padding: 160px 50px !important;
+    background-image: url("../assets/wavy-dark-by-nouridio.svg") !important;
+    background-position: bottom !important;
+    background-size: 200% !important;
+    background-repeat: no-repeat !important;
+    background-position: bottom !important;
+    background: #AD91FF !important;
+
 .features .title {
     font-size: 40px !important;
     color: #ffffff !important;
